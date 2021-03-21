@@ -30,8 +30,7 @@ var resetValue = function () {
 
 var onlyNumbers = function () {
     for (var i=0; i<inputElement.length; i++) {
-        var inputElementValue = inputElement[i].children[0].value;
-        inputElementValue = inputElementValue.replace (/\D/g, '');
+        inputElement[i].children[0].value = inputElement[i].children[0].value.replace (/\D/g, '');
     }
 };
 
