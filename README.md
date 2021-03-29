@@ -1,21 +1,16 @@
 # HTMLacademy_Project
 [RU]
 
-Привет.
-
-В данном репазитории находятся проекты, которые были сделаны в учебных целях. 
+Привет. В данном репазитории находятся проекты, которые были сделаны в учебных целях. 
 
 <b> Данные проекты не несут коммерческой цели. </b>
-
 
 В рамках обучения мной был написан только джаваскрипт. 
 
 [ENG]
 
 
-Hello.
-
-This repository contains projects that were made for educational purposes. 
+Hello. This repository contains projects that were made for educational purposes. 
 
 <b>These projects have no commercial purpose. </b>
 
