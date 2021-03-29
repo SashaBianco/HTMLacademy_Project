@@ -1,5 +1,4 @@
 # HTMLacademy_Project
-Projects for practice JavaScript.
 
 Hello.
 
